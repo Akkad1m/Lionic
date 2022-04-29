@@ -1,0 +1,21 @@
+.container {
+  width: 1170px;
+  margin: 36px auto 45px;
+  display: flex;
+}
+
+/* .header-nav {
+  display: inline;
+} */
+
+.header-list {
+  display: inline;
+}
+
+.header-list-item {
+  display: inline;
+}
+
+/* .bth {
+   display: inline;
+ } */
