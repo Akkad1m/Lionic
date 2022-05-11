@@ -22,6 +22,8 @@ body {
   font-family: 'font', sans-serif;
 }
 
+
+
 /* glob */
 
 .list-reset {
@@ -62,6 +64,8 @@ body {
   padding-bottom: 160px;
 }
 
+
+
 /* header */
 
 .header {
@@ -83,6 +87,8 @@ body {
 .header-list-item:not(:last-child) {
   margin-right: 52px;
 }
+
+
 
 /* hero */
 
@@ -108,6 +114,8 @@ body {
 .hero-btn {
   margin-bottom: 14px;
 }
+
+
 
 /* services */
 
@@ -144,3 +152,8 @@ body {
   margin: 0;
   text-align: center;
 }
+
+
+
+
+/*  */
